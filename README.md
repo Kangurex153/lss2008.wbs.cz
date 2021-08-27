@@ -1,21 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- saved from url=(0035)http://www.lss2008.wbs.cz/Mody.html -->
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style class="vjs-styles-defaults">
-      .video-js {
-        width: 300px;
-        height: 150px;
-      }
-
-      .vjs-fluid {
-        padding-top: 56.25%
-      }
-    </style>
-        
-							<meta http-equiv="X-UA-Compatible" content="IE=8, IE=9">
-							
-							
-							
-							<title>Landwirtschafts-Simulator 2008 | Mody</title>
+<html>						
+     <title>Landwirtschafts-Simulator 2008 | Mody</title>
 							
 							<meta name="description" content="Landwirtschafts-Simulator 2008">
 							<meta name="keywords" content="Landwirtschafts-Simulator 2008">
