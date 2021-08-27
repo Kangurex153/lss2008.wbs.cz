@@ -1,0 +1,384 @@
+/*add by system*/
+.buttons {
+	background-color:#BFBFBF;
+	color:#000000 !important;
+	font-weight:bold;
+	cursor: pointer;
+}
+.buttons:hover {
+	background-color:#5F5F5F;
+	color:#ffffff !important;
+}
+.diskuzeram {
+	background-color:#BFBFBF;
+	border:1px solid #5F5F5F;
+	color:#000000;
+	font-weight:bold;
+}
+.diskuzeoddeleni {
+	border-bottom:1px solid #5F5F5F;
+}
+td,th {
+	font-size:13px;
+}
+/*add by system*/
+body {
+    background-color: #000;
+    font-size: 62.5%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    color: #BFBFBF;
+}
+h1 {
+    margin: 0 0 15px 0;
+    font-size: 1.8em;
+}
+h2 {
+    margin: 14px 0;
+    font-size: 1.7em;
+}
+h3 {
+    margin: 13px 0;
+    font-size: 1.6em;
+}
+h4 {
+    margin: 12px 0;
+    font-size: 1.5em;
+}
+h5 {
+    margin: 11px 0;
+    font-size: 1.3em;
+}
+h6 {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+a:link,
+a:visited,
+a:active {
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+hr {
+    display: block;
+    position: relative;
+    padding: 0;
+    margin: 6px auto;
+    height: 2px;
+    max-height: 0; 
+    border: none;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #363636;
+    font-size: 1px;
+    line-height: 0;
+}
+legend {
+    color: #BFBFBF;
+}
+#wrapper {
+    text-align: center;
+    margin: 0 auto;
+}
+#wrap-main {
+    width: 956px;
+    text-align: center;
+    margin: 0 auto;
+}
+div#top-border {
+    width: 956px;
+    height: 26px;
+    font-size: 0;
+    background-color: #000;
+    position: relative;
+    z-index: 5;
+}
+div#background-main {
+    width: 956px;
+    background: url("http://www.wbs.cz/html/sablony/adtpl/13/14/background.jpg") top left repeat-y;
+    margin: 0;
+    padding: 0;
+}
+div#header {
+    width: 956px;
+}
+div.logo {
+    width: 956px;
+    height: 175px;
+    margin: 0;
+    background: #474747 url("http://lss2008.wbs.cz/sablona/logo_logo.jpg?rand=1264921626") top left no-repeat;
+    float: left;
+    display: inline;
+    padding: 0;
+    position: relative;
+    z-index: 5;
+    overflow: hidden;
+}
+div#language {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 3px;
+}
+#language div {
+    float: left;
+}
+#language a:link,
+#language a:visited,
+#language a:active {
+    color: #000000;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+#language a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+span#aktualizace {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 3px;
+    font-size: 1.1em;
+    color: #000000;
+}
+div.logo h1 {
+    line-height: 175px; 
+    margin: 0px;
+    font-size: 3em;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+div.logo h1 span {
+    display: block;
+}
+div#container {
+    clear: both;
+    position: relative;
+    width: 956px;
+    margin: 0px;
+    z-index: 4;
+}
+div.nav {
+    width: 190px;
+    float: left;
+    margin: 10px 0px 10px 0px;
+    z-index: 1;
+    display: inline;
+    overflow: hidden;
+}
+div.nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.nav a:link,
+.nav a:visited,
+.nav a:active {
+    display: block;
+    border-bottom: 1px solid #474747;
+    text-decoration: none;
+    color: #BFBFBF;
+    font-size: 1.3em;
+    line-height: 23px;
+    text-align: left;
+    padding-top: 5px;
+    font-weight: bold;
+}
+.nav a:hover {
+    color: #fff;
+    background-color: #000;
+}
+.nav a:link span,
+.nav a:visited span,
+.nav a:active span,
+.nav a:hover span {
+    padding-right: 5px;
+    padding-left: 18px;
+    display: block;
+}
+.nav ul ul a:link,
+.nav ul ul a:visited,
+.nav ul ul a:active {
+    display: block;
+    border-bottom: 1px solid #474747;
+    text-decoration: none;
+    color: #BFBFBF;
+    font-size: 1.2em;
+    line-height: 23px;
+    text-align: left;
+    padding-top: 5px;
+    font-weight: normal;
+}
+.nav ul ul a:hover {
+	color: #fff;
+    background-color: #000;
+}
+.nav ul ul a:link span, 
+.nav ul ul a:visited span,
+.nav ul ul a:active span,
+.nav ul ul a:hover span {
+    padding-right: 5px;
+    padding-left: 30px;
+}
+#heading-content {
+	margin: 14px 0;
+}
+#heading-content h2 {
+	margin: 0;
+}
+#heading-content span {
+    color: #BFBFBF;
+    display: block;
+    border-bottom: 1px solid #474747;
+    text-align: center;
+    position: relative;
+    z-index: 10;
+    line-height: 28px;
+}
+.widget {
+    float: right;
+    display: block;
+    margin: 0px 0px 20px 20px;
+    line-height: normal;
+}
+.widget_area {
+    margin-bottom: 5px;
+    background: url("http://www.wbs.cz/html/sablony/adtpl/13/14/bg-bottom.png") no-repeat bottom right;
+	padding: 0px 0px 3px 0px;
+}
+.widget_title {
+    padding: 10px 12px 0px 10px;
+    font-size: 1.1em;
+    font-weight: bold;
+    background: url("http://www.wbs.cz/html/sablony/adtpl/13/14/bg-line.png") repeat-y top right;
+}
+.widget_content {
+    background: url("http://www.wbs.cz/html/sablony/adtpl/13/14/bg-line.png") repeat-y top right;
+    padding: 10px 12px 10px 10px;
+}
+div.content {
+    margin: 0px;
+    position: relative;
+    z-index: 1;
+    display: inline;
+    width: 711px;
+    margin: 10px 27px 10px 27px;
+    float: right;
+    text-align: left;
+    font-size: 1.3em;
+    line-height: normal;
+    overflow: hidden;
+    min-height: 200px;
+}
+html>body #content-bg {
+    top: 0;
+}
+div#content-bg {
+    left: 190px;
+    display: block;
+    background-color: #252525;
+    position: absolute;
+    width: 765px;
+    border-left: 1px solid #474747;
+    bottom: 0;
+    z-index: 0;
+}
+.clear {
+    clear: both;
+}
+div#bottom-border {
+    width: 956px;
+    height: 1px;
+    line-height: 1px;
+    font-size: 0px;
+    background-color: #474747;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+div#footer {
+    margin: 0px;
+    border-top: 1px solid #474747;
+    font-size: 1.1em;
+    clear: both;
+    height: 14px;
+    text-align: center;
+    background-color: #252525;
+    color: #BFBFBF;
+}
+#pocitadlo {
+    width: 190px;
+    float: left;
+}
+#sitemap {
+    width: 756px;
+    float: right;
+    padding-right: 10px;
+    text-align: right;
+}
+#sitemap a:link, #sitemap a:visited, #sitemap a:active {
+    background: url("http://www.wbs.cz/html/sablony/adtpl/13/14/sitemap-g.gif") center left no-repeat;
+    color: #BFBFBF;
+    padding-left: 15px;
+    text-decoration: none;
+}
+#sitemap a:hover {
+    text-decoration: underline;
+}
+#copyright span {
+    padding: 0px 0px 10px 0px;
+    display: block;
+    font-size: 1.3em;
+    color: #BFBFBF;
+}
+
+div.widget_nadpis {
+    width: 190px;
+    padding-top: 3px;
+    text-align: center;
+    display: block;
+    color: #bfbfbf;
+    font-weight: bold;
+    background: url("http://www.wbs.cz/html/sablony/adtpl/13/14/w_nadpis.jpg") top left no-repeat;
+}
+div.widget_nadpis span {
+    line-height: 27px;
+    height: 27px;
+    overflow: hidden;
+    display: block;
+}
+ul.widget_sekce {
+    width: 190px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    list-style-type: none;
+}
+ul.widget_sekce a:link, ul.widget_sekce a:visited, ul.widget_sekce a:active {
+    width: 190px;
+    line-height: 24px;
+    padding-top: 3px;
+    background-color: #2B2B2B;
+    color: #fff;
+    font-weight: bold;
+    display: block;
+    margin-top: 1px;
+}
+ul.widget_sekce a:hover {
+    background-color: #000 !important;
+    text-decoration: none !important;
+}
+ul.widget_sekce a:link span, ul.widget_sekce a:visited span, ul.widget_sekce a:active span {
+    width: 180px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    cursor: pointer;
+}
